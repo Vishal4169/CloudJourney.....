@@ -1,0 +1,7 @@
+Amazon Route 53:
+   A reliable and cost-effective way to route end users to Internet applications.
+
+How it works?
+Amazon Route 53 is a highly available and scalable Domain Name System (DNS) web service. Route 53 connects user requests to internet applications running on AWS or on-premises.
+
+Benefits of Route 53:
